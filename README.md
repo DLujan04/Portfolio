@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![thumbnail](https://user-images.githubusercontent.com/16558205/180779213-ea740975-3df1-460a-a964-0a623ee25872.png)
 
 ### Live - https://ui.chetanverma.com/template/1
@@ -77,3 +78,6 @@ Many hours of hard work have gone into this project. Your support will be very a
 
 
 
+=======
+# Portfolio
+>>>>>>> 6640a235f074c547cac1e0c33d1fdc0f30d8924e
